@@ -53,6 +53,10 @@ header p {
     color: rgba(0, 0, 0, 0.7);
 }
 
+header img {
+    max-width: 250px;
+}
+
 /* SECTION */
 section {
     margin-bottom: 24px;
